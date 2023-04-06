@@ -1,0 +1,10 @@
+{
+  "cordova-open-admob": {
+    "source": {
+      "type": "registry",
+      "id": "file:../AdmobPlugin"
+    },
+    "is_top_level": true,
+    "variables": {}
+  }
+}
