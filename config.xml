@@ -6,7 +6,7 @@
         Apache Cordova Team
     </author>
     <content src="index.html" />
-    <plugin name="cordova-open-admob" source="git" spec="https://github.com/bridgebase/admob-google-cordova.git#review" />
+    <!-- <plugin name="cordova-open-admob" source="git" spec="https://github.com/bridgebase/admob-google-cordova.git#review" /> -->
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
     <preference name="android-minSdkVersion" value="24" />
